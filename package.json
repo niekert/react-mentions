@@ -1,6 +1,5 @@
 {
-  "private": true,
-  "name": "@messagebird/react-mentions",
+  "name": "react-mentions-proptypes-fix",
   "version": "1.0.0",
   "description": "React mentions input",
   "main": "lib/index.js",
