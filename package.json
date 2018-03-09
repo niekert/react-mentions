@@ -1,6 +1,7 @@
 {
-  "name": "react-mentions",
-  "version": "0.0.0-development",
+  "private": true,
+  "name": "@messagebird/react-mentions",
+  "version": "1.0.0",
   "description": "React mentions input",
   "main": "lib/index.js",
   "module": "es/index.js",
